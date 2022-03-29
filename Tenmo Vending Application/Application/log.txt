@@ -1,0 +1,12 @@
+Feb 14, 2022 6:01:39 PM com.techelevator.VendingMachineCLI PurchaseMenu
+INFO: init. balance: 5, fin. balance: 5
+Feb 14, 2022 6:01:45 PM com.techelevator.VendingMachineCLI PurchaseMenu
+INFO: init. balance: 1, fin. balance: 1
+Feb 14, 2022 10:11:32 PM com.techelevator.VendingMachineCLI PurchaseMenu
+INFO: initial balance: 2, final balance: 2
+Feb 21, 2022 1:31:56 PM com.techelevator.VendingMachineCLI PurchaseMenu
+INFO: initial balance: 1, final balance: 1
+Feb 21, 2022 1:32:43 PM com.techelevator.VendingMachineCLI PurchaseMenu
+INFO: initial balance: 2, final balance: 2
+Feb 21, 2022 1:33:53 PM com.techelevator.VendingMachineCLI PurchaseMenu
+INFO: initial balance: 10, final balance: 10
