@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Obigham
-- 👀 **I’m interested in People. On my first business card I listed myself as a person first.** 
-- I think the world would be a lot more fun, kind and accessible if we treated each other in that regard. 
-- **I love tools that allow us to connect.** As a cinematographer I used a camera and a computer now I understand
-- the underlying technologies and countless other tools we can use such as web and mobile app development. 
+- 👀 **I’m interested in authentic interactions and culture.** 
+- **Creating tools that allow us to connect is my passion** 
+-**As a cinematographer I used a camera and a computer now I understand
+- the underlying technologies and countless other tools we can use such 
+as web and mobile app developers. 
 - **I'm also interested in:** electric vehicles, drones and overall anything that can be classified as tools that aid humanity.
-- 🌱 I’m currently learning **Java, JavaScript, Python, SQL, HTML, CSS, 3D modeling in Cinema 4d.**
-- 💞️ I’m looking to collaborate on any project where I can continue to grow and test the foundations I have developed.
+- 🌱 I’m currently learning and working **Java, JavaScript, Python, PHP, SQL, HTML, CSS**
+- 💞️ Continually growing and testing the foundations I have developed.
 - 📫 Let's connect! omari@amindfree.com
