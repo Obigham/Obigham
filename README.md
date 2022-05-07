@@ -4,7 +4,7 @@
 -**As a cinematographer I used a camera and a computer now I understand
 - the underlying technologies and countless other tools we can use such 
 as web and mobile app developers. 
-- **I'm also interested in:** electric vehicles, drones and overall anything that can be classified as tools that aid humanity.
+- **I'm also interested in:** electric vehicles, drones, etc. 
 - 🌱 I’m currently learning and working **Java, JavaScript, Python, PHP, SQL, HTML, CSS**
 - 💞️ Continually growing and testing the foundations I have developed.
 - 📫 Let's connect! omari@amindfree.com
